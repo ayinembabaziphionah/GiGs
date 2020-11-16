@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CreateGiG"></activity>
+        <activity android:name=".Create_GiG"></activity>
+        <activity android:name=".CreateGiG" />
         <activity android:name=".CreateGig" />
         <activity android:name=".MainActivity">
             <intent-filter>
